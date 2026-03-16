@@ -1,0 +1,12 @@
+{
+  "name": "Automators Skills Marketplace",
+  "description": "Internal automation skills for Sendbird — published via automators.sdix.io",
+  "plugins": [
+    {
+      "name": "automators-skills",
+      "source": "git",
+      "url": "https://github.com/sendbird-ai/automators-skills.git",
+      "version": "latest"
+    }
+  ]
+}
