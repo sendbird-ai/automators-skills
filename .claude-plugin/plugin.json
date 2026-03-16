@@ -1,9 +1,0 @@
-{
-  "name": "automators-skills",
-  "version": "1.0.0",
-  "description": "Sendbird internal automation skills — reusable capabilities for Claude Code",
-  "author": {
-    "name": "Sendbird AI"
-  },
-  "skills": "./skills/"
-}
