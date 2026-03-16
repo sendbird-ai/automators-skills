@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "automators-skills",
-      "source": ".",
+      "source": "./",
       "description": "Reusable automation skills published via automators.sdix.io"
     }
   ]
