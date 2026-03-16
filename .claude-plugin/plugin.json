@@ -2,5 +2,5 @@
   "name": "automators-skills",
   "description": "Sendbird internal automation skills — reusable capabilities for Claude Code, Desktop, and Cowork",
   "version": "1.0.0",
-  "skills": "skills/*"
+  "skills": "./skills"
 }
