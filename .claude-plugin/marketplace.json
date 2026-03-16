@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "automators-skills",
-      "source": ".",
+      "source": "https://github.com/sendbird-ai/automators-skills",
       "description": "Reusable automation skills published via automators.sdix.io"
     }
   ]
