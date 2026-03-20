@@ -1,7 +1,7 @@
 ---
 name: delight-ai-slide-deck-creator
 description: Use this skill when the user wants to create a delight.ai branded sales deck, pitch deck, or presentation. Always attach delight-logo-white.png as the logo asset.
-version: 1.0.0
+version: 2.0.0
 author: Yongchang Kang
 ---
 
